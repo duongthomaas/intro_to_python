@@ -1,4 +1,4 @@
-# Lunch and Learn: Intro to Python
+# Lunch and Learn: Intro to Python 🐍
 
 A beginner-friendly introduction to Python fundamentals, designed for our Lunch and Learn session at TIL.
 
@@ -6,7 +6,7 @@ A beginner-friendly introduction to Python fundamentals, designed for our Lunch 
 
 - **Variables** - Store and use data in your programs
 - **Lists** - Work with collections of items
-- **Dictionaries** - Organize data with key-value pairs
+- **Dictionaries** - Organise data with key-value pairs
 - **If Statements** - Make decisions in your code
 - **For Loops** - Iterate through collections
 - **While Loops** - Repeat tasks until a condition is met
